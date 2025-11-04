@@ -1,0 +1,25 @@
+1) Understand the data set
+2) identify the problems
+3) plan next steps
+
+
+
+3 problems
+1) How many colums or rows are there ?
+2) What type of data it is ?
+3) Missing vlaue ?
+
+
+info()
+this method whill give , 
+1)no. of rows and columns
+2)column name
+3)int64 float64 object
+4)non null counts
+5)memory usage of the data frame
+
+
+how big is your data?
+what is the name of your columns 
+
+can be done with the help of shape and column 
